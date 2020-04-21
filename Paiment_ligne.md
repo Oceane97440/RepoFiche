@@ -1,4 +1,4 @@
-# EJS
+# Paiment en ligne 
 
 # Qu’es que paypal ?
 Il s’agit du leader français sur le marché, c’est  une plateforme qui permet virtuellement d’avoir un porte monnais en ligne. Comme un porte monnais classique,il permet d’effectuer des actions d’achat,récupération et envoie de la monnais. 
