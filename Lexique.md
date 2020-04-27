@@ -37,10 +37,10 @@ Exemple ORM:
 </ul>
 
 # Langage objet et application hybride
-La programmation orientée objet est un modèle de langage de programmation qui s'articule autour d'objets et de données. Les langages de programmations orientée objet sont :Java, Python, C++, Visual Basic .NET et Ruby <br>
+La programmation orientée objet est un modèle de langage de programmation qui s'articule autour d'objets et des données. Les langages de programmations orientée objet sont :Java, Python, C++, Visual Basic .NET et Ruby <br>
 
 Les applications hybrides sont des applications dites « cross-platform », il s’agit de déployer une seule version d’une application pour que celle-ci soit disponible sur toutes les plateformes.
-# Qu'est-ce que l'Angular CLI ?
+# Qu'est-ce qu'un CLI ?
 Command Line Interface (ou Interface en ligne de commande en français).Une interface en ligne de commande est une interface qui permet la communication entre un utilisateur et un ordinateur.
 
 # Qu'es qui défini une API REST
