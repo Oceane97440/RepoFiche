@@ -77,10 +77,4 @@ Les api REST signifie “Representational State Transfer”, il est basé sur la
 
 
 
-## Sources:
-https://www.ionos.fr/digitalguide/web-marketing/vendre-sur-internet/les-meilleures-alternatives-a-paypal/
-https://ecommerce-platforms.com/fr/articles/paypal-alternatives
-Process d'achat sur paypal:https://www.primfx.com/integrer-paypal-express-checkout-son-site-php-496/payer-via-paypal-comment-marche/
-https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Conditions-generales-de-vente
-https://www.service-public.fr/professionnels-entreprises/vosdroits/F23455
 
