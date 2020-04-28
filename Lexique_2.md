@@ -1,7 +1,7 @@
 # Lexique
 
 # Notion JWT ?
-Json Web Tokens est un format de token. Il permet de crée et générer un token d'indentification.
+Json Web Tokens est un format de token. Il permet de crée et générer un token d'authentification.
 La struture de token se divise en 3 partie séparer de '.' 
 <ul>
 <li>Une en-tête: algo de chiffrement et type du token</li>
@@ -77,7 +77,15 @@ Installation :npm install --save-dev webpack@latest webpack-dev-server@latest
 # Les Promise de node.js
 L'objet Promise (pour « promesse ») est utilisé pour réaliser des traitements de façon asynchrone. Une promesse représente une valeur qui peut être disponible maintenant, dans le futur voire jamais.
 
+# Différence entre identification et authentification
+L'identification : consiste à établir l'identité d'un utilisateur. 
+Savoir qui je suis ? L'utilisateur doit renseigner certaines informations comme le noms utilisateur, num de tel, sa profession ect... L'utilisateur doit être identifié comme individu unique.<br>
 
+L'authentification : consiste à apporter la preuve de son identité.
+Savoir si je suis réellement cette personne ? Ainsi, l'utilisateur doit utiliser son authentifiant comme le mot de passe, saisi par lui seul et qu'il est le seul à connaitre. <br>
+
+Le mot de passe d'un utilisateur est une information personnelle qui ne doit en aucun cas être divulgués.
+Il est important de pouvoir crypter, c'est donnée pour une meilleur securité  <br>
 
 
 
