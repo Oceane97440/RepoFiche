@@ -27,7 +27,7 @@ L’accessibilité du web comprend tous les handicaps affectant l’accès au we
 <li>neurologique</li>
 <li>physique de la parole</li>
 <li>visuel</li>
-<ul
+</ul>
 >
 L’accessibilité du web bénéficie également aux personnes sans handicap, comme par exemple :
 <ul>
@@ -36,7 +36,7 @@ L’accessibilité du web bénéficie également aux personnes sans handicap, co
 <li>les personnes ayant un « handicap temporaire » tel qu’un bras cassé ou perdu leurs lunettes</li>
 <li>les personnes ayant « une limitation situationnelle » comme être en plein soleil ou dans un environnement où elles ne peuvent pas écouter l’audio</li>
 <li>les personnes utilisant une connexion internet lente ou ayant une bande passante limitée ou onéreuse</li>
-<ul>
+</ul>
 
 # Qu'est ce que le W3C ? A quoi sert il pour la création de site internet
 
