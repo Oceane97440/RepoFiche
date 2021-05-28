@@ -8,6 +8,8 @@
  - [autorisé l'ajax dans votre application](#autorisé-lajax-dans-votre-application)
  - [Erreur rencontrer](#Erreur-rencontrer)
  - [ajax request GET POST PUT DELETE](#ajax-request-GET-POST-PUT-DELETE)
+ - [ajouté un logo](#add-logo)
+
 
 # install cordova 
 ```
@@ -253,4 +255,14 @@ PATH
             }
         })
 });
+```
+# add logo
+- après avoir build crée un dossier dans  ```www/res/icon```
+- ajouter le code suivant dans  ```config.xml -> dans <platform name="android">`` 
+```
+
+<icon src="www/res/icon/logo.png"  />
+<icon src="www/res/icon/logo.png"  />
+            
+ 
 ```
